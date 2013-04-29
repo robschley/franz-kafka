@@ -6,7 +6,7 @@
   "dependencies" : {
     "int53": "*",
     "async": "*",
-    "readable-stream": "git+https://github.com/isaacs/readable-stream.git",
+    "readable-stream": "*",
     "buffer-crc32": "*"
   },
   "optionalDependencies" : {
